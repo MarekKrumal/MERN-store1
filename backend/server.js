@@ -8,10 +8,7 @@ dotenv.config();
 
 const app = express();
 
-app.get("/", (req,res) => {
-    
-    console.log(process.env.MONGO_URI)
-})
+app.get("/products", (req,res) => {});
 
 app.listen(5000, () => {
     connectDB();
