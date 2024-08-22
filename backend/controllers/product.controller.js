@@ -59,3 +59,5 @@ export const deleteProduct = async (req, res) => {
         res.status(404).json({ succes: false, message: "Product not found"});
     }
 }
+
+export default router;
