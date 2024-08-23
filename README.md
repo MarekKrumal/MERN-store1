@@ -1,6 +1,6 @@
 MERN-Store1
 
-![Demo App](frontend/public/Screenshot 2024-08-23 205037.png)
+![Demo App](frontend/public/MERNstorescreenshot.png)
 
 https://mern-store1-piyt.onrender.com/
 
