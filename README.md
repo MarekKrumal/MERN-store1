@@ -10,8 +10,10 @@ DEMO APP
 -   Přidávání, mazání produktů a jejich upravování
 -   dark/light mode
 -   Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
-
-
+-   Error Handling
+-   Responzivní UI w/ React.js a ChakraUI
+-   Vlastní API
+  
 
 ### Setup .env file
 
