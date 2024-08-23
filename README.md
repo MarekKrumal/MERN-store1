@@ -7,9 +7,9 @@ DEMO APP
 [DEMO-APP DEPLOYMENT](https://mern-store1-piyt.onrender.com/)
 
 ### FUNKCE / INFO
--Přidávání, mazání produktů a jejich upravování
--dark/light mode
--Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+-   Přidávání, mazání produktů a jejich upravování
+-   dark/light mode
+-   Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 
 
 
