@@ -1,6 +1,5 @@
 MERN-Store1
 
-SCREENSHOT
 ![DEMOSCREENSHOT](frontend/public/MERNstorescreenshot.png)
 
 DEMO APP
