@@ -2,8 +2,8 @@ MERN-Store1
 
 ![DEMOSCREENSHOT](frontend/public/MERNstorescreenshot.png)
 
-DEMO APP
-[DEMO-APP DEPLOYMENT](https://mern-store1-piyt.onrender.com/)
+### DEMO APP
+-   [DEMO-APP DEPLOYMENT](https://mern-store1-piyt.onrender.com/)
 
 ### FUNKCE / INFO
 -   Přidávání, mazání produktů a jejich upravování
