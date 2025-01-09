@@ -7,8 +7,10 @@ import path from "path";
 import { connectDB } from "./config/db.js"
 
 import productsRoutes from "./routes/product.route.js"
+import job from "./cron/cron.js";
 
 dotenv.config();
+job.start()
 
 const app = express();
 const PORT = process.env.PORT || 5000;
